@@ -1,8 +1,9 @@
-#Lista de exercicios python
+# Lista de exercicios python
 
 **Aluno**:Felipe  Nobre Silva
-**Turma**:Desenvolvimento de sistemas -
-PROTEC -UNIDADE Curricular 4: Desenvolvimento Algoritmo
+
+**Turma**:Desenvolvimento de sistemas - PROTEC -UNIDADE Curricular 4: Desenvolvimento Algoritmo
+
 Este repositorio contem a resolução dos exercicios referente aos aprendizados na unidade curricular 4: Desenvolvendo algoritmos.
 
 ## Exercicios com Python
